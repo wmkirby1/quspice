@@ -1,1 +1,1 @@
-# quspice
+# QuSpICE
